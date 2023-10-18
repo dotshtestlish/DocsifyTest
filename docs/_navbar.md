@@ -1,2 +1,2 @@
 * [Home](/README)
-* [old](/new)
+* [old](/EZCAD3 SDK Manual)
