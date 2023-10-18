@@ -1,2 +1,2 @@
-* [本项目](/README)
-* [new](/new.md)
+* [Home](/README)
+* [EZCAD3 SDK Manual](/EZCAD3 SDK Manual.md)
