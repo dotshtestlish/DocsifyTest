@@ -1,4 +1,4 @@
-- [Home](/Home)
+- [Home](/README)
 
 - EZCAD3 Function Manual
 
